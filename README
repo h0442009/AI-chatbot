@@ -1,0 +1,31 @@
+# **Project Documentation**
+
+## Introduction
+The AI Chatbot is a web-based application used to interact with users, answer questions, and automate conversational tasks using an AI model.
+
+## Features
+- User registration and login
+- Real-time text-based chat interface
+- Chat history logs (Save and load past conversations)
+- Export chat transcripts (Download as PDF or TXT)
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript (Frontend UI / API integration / LocalStorage for history)
+
+## Installation
+1. Download the project.
+2. Open the project folder.
+3. Open index.html in a browser.
+
+## Usage
+1. Login to the system.
+2. Open a new chat session.
+3. Type a message in the input box and press send.
+4. View the AI response in real-time.
+
+## Future Enhancements
+- Voice input and output (Speech-to-Text and Text-to-Speech)
+- Multi-modal support (Uploading images and files)
+
